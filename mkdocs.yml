@@ -1,0 +1,48 @@
+site_name: Universidade Prestamista
+
+theme:
+  name: material
+  language: pt-BR
+  logo: assets/logo.png
+
+
+plugins:
+  - search
+  - mermaid2
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Início: index.md
+  - Formação:
+      - Módulo 01: formacao/apostila-01.md
+      - Módulo 02: formacao/apostila-02.md
+      - Módulo 03: formacao/apostila-03.md
+      - Módulo 04: formacao/apostila-04.md
+      - Módulo 05: formacao/apostila-05.md
+      - Módulo 06: formacao/apostila-06.md
+      - Módulo 07: formacao/apostila-07.md
+      - Módulo 08: formacao/apostila-08.md
+      - Módulo 09: formacao/apostila-09.md
+      - Módulo 10: formacao/apostila-10.md
+
+  
+  - Avaliações:
+      - Teste Diagnóstico: avaliacoes/diagnostico.md
+      - Certificação Final: avaliacoes/certificacao.md
+      
+
+  - Fluxos Operacionais:
+      - Jornada Completa: fluxos/jornada-completa.md
+      - Contratação: fluxos/contratacao.md
+      - Formalização e DPS: fluxos/formalizacao-dps.md
+      - Cobrança: fluxos/cobranca.md
+      - Consistência: fluxos/consistencia.md
+      - Faturamento: fluxos/faturamento.md
+      - Conciliação: fluxos/conciliacao.md
+
+  - Biblioteca:
+    - ICs e Referências: apoio/ics.md
+    - Glossário: apoio/glossario.md
+    - FAQ: apoio/faq.md

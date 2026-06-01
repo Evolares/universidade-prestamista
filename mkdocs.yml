@@ -34,7 +34,7 @@ nav:
       
 
   - Fluxos Operacionais:
-      - Jornada Completa: fluxos/jornada-completa.md
+      ##- Jornada Completa: fluxos/jornada-completa.md
       - Contratação: fluxos/contratacao.md
       - Formalização e DPS: fluxos/formalizacao-dps.md
       - Cobrança: fluxos/cobranca.md
@@ -42,7 +42,7 @@ nav:
       - Faturamento: fluxos/faturamento.md
       - Conciliação: fluxos/conciliacao.md
 
-  - Biblioteca:
-    - ICs e Referências: apoio/ics.md
-    - Glossário: apoio/glossario.md
-    - FAQ: apoio/faq.md
+  #- Biblioteca:
+    ##- ICs e Referências: apoio/ics.md
+    ##- Glossário: apoio/glossario.md
+    ##- FAQ: apoio/faq.md

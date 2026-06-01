@@ -88,10 +88,11 @@ A trilha está organizada em dez módulos:
 
 Para participar da Universidade Prestamista, realize sua inscrição por meio do formulário abaixo:
 
-<a href="COLE_AQUI_O_LINK_DO_FORMULARIO"
-target="_blank"
-rel="noopener noreferrer"
-class="md-button md-button--primary">
+<a href="https://forms.office.com/pages/responsepage.aspx?id=ILYXtOkqg0qrbH-9govaHd24Ew_FLwpGp2l4IwOeshRURVpQUDhYS1Q5U0wzR0FSQUoxM1dYQkNORC4u&route=shorturl"
+   class="md-button">
+    📖 Especialista do Seguro Prestamista
+</a>
+
 🚀 Realizar Inscrição </a>
 
 ---

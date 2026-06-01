@@ -65,6 +65,7 @@ Monitorar processos de DPS, formalização e análise de riscos especiais.
 <hr>
 
 <a href="../formacao/apostila-07/">Módulo 07 - Cobrança, Persistência e Gestão da Carteira</a>
+
 <span class="bold-sicoob">Propósito: </span>
 Compreender como a arrecadação sustenta a carteira e influencia a manutenção da cobertura.
 <span class="bold-sicoob">Competência: </span>

@@ -1,11 +1,10 @@
 ---
-
 hide:
-
-* navigation
-* toc
-* path
-
+  - navigation
+  - toc
+  - path
+classes:
+  - landing-page
 ---
 
 # 🎓 Universidade Prestamista

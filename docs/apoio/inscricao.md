@@ -93,27 +93,6 @@ A avaliação permitirá identificar o nível atual de conhecimento e servirá c
 
 ---
 
-## 🏆 Certificação
-
-Ao concluir todos os módulos, os participantes poderão realizar a avaliação final de certificação, validando os conhecimentos adquiridos ao longo da jornada.
-
----
-
-## 👥 Público-Alvo
-
-Esta formação foi desenvolvida para profissionais que atuam ou desejam atuar em atividades relacionadas ao Seguro Vida Prestamista:
-
-* Consultores de Negócios
-* Gerentes de Agência
-* Equipes de Crédito
-* Equipes Operacionais
-* Profissionais de Seguros
-* Analistas de Dados
-* Analistas Financeiros
-* Colaboradores das Cooperativas
-* Profissionais da Sicoob Seguradora
-
----
 
 ## 💡 Uma reflexão
 

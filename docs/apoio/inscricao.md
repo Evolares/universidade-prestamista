@@ -103,10 +103,9 @@ A avaliação permitirá identificar o nível atual de conhecimento e servirá c
 ## 🚀 Faça sua Inscrição
 
 <a href="https://forms.office.com/pages/responsepage.aspx?id=ILYXtOkqg0qrbH-9govaHd24Ew_FLwpGp2l4IwOeshRURVpQUDhYS1Q5U0wzR0FSQUoxM1dYQkNORC4u&route=shorturl"
-target="_blank"
-rel="noopener noreferrer"
-class="md-button md-button--primary">
-Quero Participar da Universidade Prestamista </a>
+   class="md-button">
+    📖 Quero Participar do Treinamento de Especialização do Prestamista
+</a>
 
 ---
 

@@ -1,0 +1,47 @@
+:root {
+
+  --md-primary-fg-color: #004453;
+  --md-primary-fg-color--light: #4c7c83;
+  --md-primary-fg-color--dark: #003340;
+
+  --md-accent-fg-color: #c9d200;
+}
+
+.md-header {
+  background-color: #004453;
+}
+
+.md-tabs {
+  background-color: #00a091;
+}
+
+.md-typeset h1 {
+  color: #004453;
+}
+
+.md-typeset h2 {
+  color: #00a091;
+}
+
+.md-typeset h3 {
+  color: #7db61c;
+}
+
+.bold-sicoob {
+    color: #00a091;
+    font-weight: bold;
+}
+
+.sicoob-title {
+    color: #00a091;
+    font-weight: 700;
+}
+
+.md-typeset a {
+    color: #004453;
+    font-weight: bold;
+}
+
+.md-typeset a:hover {
+    color: #00a091;
+}

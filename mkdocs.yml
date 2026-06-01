@@ -16,6 +16,8 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
+  - Inscrição: apoio/inscricao.md
+
   - Início: index.md
   - Formação:
       - Módulo 01: formacao/apostila-01.md

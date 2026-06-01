@@ -1,116 +1,137 @@
 ---
+
 hide:
-  - navigation
-  - toc
-  - path
-  - feedback
----
 
-# Universidade Prestamista
-
-## Bem-vindo à Universidade Prestamista da Sicoob Seguradora
-
-O Seguro Vida Prestamista é um dos produtos mais relevantes para a proteção das operações de crédito e para a segurança financeira dos cooperados. Embora esteja presente no dia a dia de diversas áreas da cooperativa, sua operação envolve uma série de conceitos, regras, processos e controles que vão muito além da contratação do seguro.
-
-Pensando nisso, a Sicoob Seguradora desenvolveu a **Universidade Prestamista**, uma trilha de capacitação estruturada para ampliar o conhecimento dos profissionais que atuam direta ou indiretamente com o produto.
+* navigation
+* toc
+* path
 
 ---
 
-## Objetivo do Programa
+# 🎓 Universidade Prestamista
 
-Capacitar os participantes para compreender todo o ciclo de vida do Seguro Vida Prestamista, desde a contratação até os processos de cobrança, consistência, faturamento e conciliação financeira.
+## Domine o Seguro Vida Prestamista do início ao fim
 
-Ao final da jornada, espera-se que o participante seja capaz de:
+O Seguro Vida Prestamista está presente em milhares de operações de crédito, protegendo cooperados, cooperativas e a carteira de negócios.
 
-* Compreender as regras do produto;
-* Aplicar corretamente os conceitos do Manual do Prestamista;
-* Identificar riscos e inconsistências operacionais;
-* Apoiar cooperativas e áreas internas em dúvidas especializadas;
-* Interpretar indicadores e relatórios operacionais;
-* Contribuir para a qualidade e sustentabilidade da carteira segurada.
+Embora muitos profissionais convivam diariamente com o produto, poucos conhecem toda a sua jornada operacional, suas regras de aceitação, critérios de cobertura, processos de cobrança, faturamento e conciliação.
+
+A **Universidade Prestamista** foi criada para transformar conhecimento operacional em conhecimento especializado.
 
 ---
 
-## O que você encontrará nesta trilha?
+## 🚀 Por que participar?
 
-### 📚 Apostilas
+Ao concluir a formação, você estará apto a:
 
-Conteúdo estruturado em módulos, abordando os principais conceitos e processos do Seguro Vida Prestamista.
+✅ Compreender o ciclo de vida completo do Seguro Vida Prestamista
 
-### 📝 Quizzes
+✅ Interpretar corretamente as regras do produto
 
-Questionários de fixação para validar o aprendizado de cada módulo.
+✅ Identificar riscos e inconsistências operacionais
 
-### 🔍 Casos Práticos
+✅ Apoiar cooperativas e áreas internas com maior segurança técnica
 
-Situações reais da operação para desenvolver a capacidade de análise e tomada de decisão.
+✅ Compreender processos de cobrança, consistência, faturamento e conciliação
 
-### 🔄 Fluxos Operacionais
-
-Representação visual dos processos que compõem a jornada do produto.
-
-### 🎯 Avaliação Diagnóstica
-
-Avaliação inicial para identificação do nível de conhecimento do participante.
-
-### 🏆 Certificação
-
-Avaliação final para validação dos conhecimentos adquiridos ao longo da formação.
+✅ Desenvolver uma visão integrada da operação
 
 ---
 
-## Público-Alvo
+## 📚 O que você irá aprender?
 
-Esta formação foi desenvolvida para profissionais que atuam ou desejam atuar em atividades relacionadas ao Seguro Vida Prestamista, incluindo:
+A trilha é composta por módulos estruturados que abordam:
 
-* Consultores de Negócios;
-* Gerentes de Agência;
-* Equipes de Crédito;
-* Equipes Operacionais;
-* Profissionais de Seguros;
-* Analistas de Dados;
-* Analistas Financeiros;
-* Colaboradores das Cooperativas;
-* Profissionais da Sicoob Seguradora.
+### Módulo 01 – Fundamentos do Seguro Vida Prestamista
+
+Compreender os conceitos fundamentais, participantes e benefícios do produto.
+
+### Módulo 02 – Público-Alvo e Regras de Aceitação
+
+Entender os critérios de elegibilidade e contratação para Pessoas Físicas e Jurídicas.
+
+### Módulo 03 – Capital Segurado e Formação do Prêmio
+
+Conhecer as modalidades de cobertura e os fatores que influenciam o prêmio do seguro.
+
+### Módulo 04 – Parametrizações do Produto
+
+Compreender as configurações que determinam o funcionamento do Seguro Prestamista.
+
+### Módulo 05 – Contratação e Gestão da Exposição ao Risco
+
+Entender como a seguradora controla a concentração de risco e o acúmulo de capitais segurados.
+
+### Módulo 06 – Formalização, DPS e Aceitação do Risco
+
+Conhecer as regras de formalização e análise do risco segurado.
+
+### Módulo 07 – Cobrança, Cancelamentos e Devoluções
+
+Compreender os processos financeiros relacionados à manutenção da cobertura.
+
+### Módulo 08 – Consistência das Parcelas
+
+Entender os controles operacionais e financeiros que garantem a qualidade da carteira.
+
+### Módulo 09 – Faturamento e Conciliação Contábil
+
+Conhecer os processos que asseguram a integridade financeira da operação.
+
+### Módulo 10 – Oficina do Especialista Prestamista
+
+Aplicar os conhecimentos adquiridos em situações reais da operação.
 
 ---
 
-## Estrutura da Formação
+## 🎯 Avalie seu conhecimento
 
-A trilha está organizada em dez módulos:
+Antes de iniciar a trilha, recomendamos a realização da Avaliação Diagnóstica.
 
-1. Fundamentos do Seguro Vida Prestamista
-2. Público-Alvo e Regras de Aceitação
-3. Capital Segurado e Formação do Prêmio
-4. Parametrizações do Produto
-5. Contratação e Gestão da Exposição ao Risco
-6. Formalização, DPS e Aceitação do Risco
-7. Cobrança, Cancelamentos e Devoluções
-8. Consistência das Parcelas
-9. Faturamento e Conciliação Contábil
-10. Oficina do Especialista Prestamista
+O objetivo não é aprovar ou reprovar participantes.
+
+A avaliação permitirá identificar o nível atual de conhecimento e servirá como referência para acompanhar sua evolução ao longo da formação.
 
 ---
 
-## Inscrição
+## 🏆 Certificação
 
-Para participar da Universidade Prestamista, realize sua inscrição por meio do formulário abaixo:
-
-<a href="https://forms.office.com/pages/responsepage.aspx?id=ILYXtOkqg0qrbH-9govaHd24Ew_FLwpGp2l4IwOeshRURVpQUDhYS1Q5U0wzR0FSQUoxM1dYQkNORC4u&route=shorturl"
-   class="md-button">
-    📖 Especialista do Seguro Prestamista
-</a>
-
-🚀 Realizar Inscrição </a>
+Ao concluir todos os módulos, os participantes poderão realizar a avaliação final de certificação, validando os conhecimentos adquiridos ao longo da jornada.
 
 ---
 
-## Nossa Missão
+## 👥 Público-Alvo
 
-Transformar conhecimento em proteção.
+Esta formação foi desenvolvida para profissionais que atuam ou desejam atuar em atividades relacionadas ao Seguro Vida Prestamista:
 
-Mais do que conhecer um produto, buscamos desenvolver profissionais capazes de compreender a importância do Seguro Vida Prestamista para o cooperado, para a cooperativa e para a sustentabilidade do Sistema Sicoob.
+* Consultores de Negócios
+* Gerentes de Agência
+* Equipes de Crédito
+* Equipes Operacionais
+* Profissionais de Seguros
+* Analistas de Dados
+* Analistas Financeiros
+* Colaboradores das Cooperativas
+* Profissionais da Sicoob Seguradora
 
-> "O conhecimento protege decisões. Decisões protegem pessoas."
+---
 
-### Seja bem-vindo à Universidade Prestamista.
+## 💡 Uma reflexão
+
+> "Conhecer um produto é diferente de dominar uma operação. O especialista compreende não apenas o que acontece, mas por que acontece."
+
+---
+
+## 🚀 Faça sua Inscrição
+
+<a href="COLE_AQUI_O_LINK_DO_FORMULARIO"
+target="_blank"
+rel="noopener noreferrer"
+class="md-button md-button--primary">
+Quero Participar da Universidade Prestamista </a>
+
+---
+
+### Transformando conhecimento em proteção.
+
+### Universidade Prestamista | Sicoob Seguradora

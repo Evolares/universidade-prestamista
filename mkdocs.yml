@@ -1,9 +1,11 @@
 site_name: Universidade Prestamista
+site_url: https://evolares.github.io/universidade-prestamista/
 
 theme:
   name: material
   language: pt-BR
   logo: assets/logo.png
+
 
 
 plugins:

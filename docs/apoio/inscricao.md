@@ -1,3 +1,11 @@
+---
+hide:
+  - navigation
+  - toc
+  - path
+  - feedback
+---
+
 # Universidade Prestamista
 
 ## Bem-vindo à Universidade Prestamista da Sicoob Seguradora

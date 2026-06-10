@@ -433,6 +433,15 @@ Após concluir esta apostila eu consigo:
 
 ✅ Relacionar o seguro com a operação de crédito
 
+
+# Avaliação 01 – Ecossistema do Seguro Vida Prestamista 
+
+## Instruções Após concluir a leitura da Apostila 01, responda ao questionário abaixo. 
+
+<a href="https://forms.office.com/r/8nUUNXfGRr"
+   class="md-button">
+    📖 Responder o Teste sobre o conteúdo do Módulo 01
+</a>
 ---
 
 <!--

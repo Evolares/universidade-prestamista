@@ -289,19 +289,6 @@ Reconhecimento financeiro das parcelas.
 Recebimento efetivo dos valores.
 
 ---
-
-
-
-## Instruções
-
-Após concluir a leitura do Módulo 08, responda ao questionário abaixo.
-
-
-<a href="https://forms.office.com/r/zn1Xbjn3ai"
-   class="md-button">
-    📖 Responder o Teste sobre o conteúdo do Módulo 08
-</a>
-
 ---
 
 ## Objetivo
@@ -320,3 +307,14 @@ Verificar a compreensão dos processos de consistência das parcelas, validaçã
 - Qualidade dos dados
 - Impactos na cobertura
 - Impactos no faturamento
+
+
+## Instruções
+
+Após concluir a leitura do Módulo 08, responda ao questionário abaixo.
+
+
+<a href="https://forms.office.com/r/zn1Xbjn3ai"
+   class="md-button">
+    📖 Responder o Teste sobre o conteúdo do Módulo 08
+</a>

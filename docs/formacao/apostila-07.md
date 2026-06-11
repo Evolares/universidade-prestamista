@@ -256,16 +256,6 @@ Quitação da operação antes do prazo previsto.
 ✅ Conheço os principais indicadores da carteira.
 
 
-## Instruções
-
-Após concluir a leitura do Módulo 07, responda ao questionário abaixo.
-
-
-<a href="https://forms.office.com/r/H4yXNHJve1"
-   class="md-button">
-    📖 Responder o Teste sobre o conteúdo do Módulo 07
-</a>
-
 ---
 
 ## Objetivo
@@ -284,3 +274,16 @@ Verificar a compreensão dos processos de cobrança, arrecadação, cancelamento
 - Impactos na cobertura
 - Impactos financeiros
 - Gestão da carteira segurada
+
+---
+
+
+## Instruções
+
+Após concluir a leitura do Módulo 07, responda ao questionário abaixo.
+
+
+<a href="https://forms.office.com/r/H4yXNHJve1"
+   class="md-button">
+    📖 Responder o Teste sobre o conteúdo do Módulo 07
+</a>

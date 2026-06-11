@@ -308,16 +308,6 @@ Correção da divergência identificada.
 ✅ Consigo apoiar auditorias e controles internos.
 
 
-## Instruções
-
-Após concluir a leitura do Módulo 09, responda ao questionário abaixo.
-
-
-<a href="https://forms.office.com/r/5CDGM2yr1u"
-   class="md-button">
-    📖 Responder o Teste sobre o conteúdo do Módulo 09
-</a>
-
 ---
 
 ## Objetivo
@@ -336,3 +326,16 @@ Verificar a compreensão dos processos de faturamento, conciliação contábil e
 - Parcelas arrecadadas
 - Ajustes financeiros
 - Governança dos processos financeiros
+
+---
+
+
+## Instruções
+
+Após concluir a leitura do Módulo 09, responda ao questionário abaixo.
+
+
+<a href="https://forms.office.com/r/5CDGM2yr1u"
+   class="md-button">
+    📖 Responder o Teste sobre o conteúdo do Módulo 09
+</a>

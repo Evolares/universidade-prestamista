@@ -279,16 +279,6 @@ Operação apta à contratação do seguro.
 ✅ Conheço os principais riscos operacionais.
 
 
-## Instruções
-
-Após concluir a leitura do Módulo 05, responda ao questionário abaixo.
-
-
-<a href="https://forms.office.com/r/vZzJwFrw6v"
-   class="md-button">
-    📖 Responder o Teste sobre o conteúdo do Módulo 05
-</a>
-
 ---
 
 ## Objetivo
@@ -307,3 +297,16 @@ Verificar a compreensão do processo de contratação do Seguro Vida Prestamista
 - Responsabilidades da cooperativa
 - Monitoramento de limites
 - Consequências da ultrapassagem dos limites estabelecidos
+
+---
+
+
+## Instruções
+
+Após concluir a leitura do Módulo 05, responda ao questionário abaixo.
+
+
+<a href="https://forms.office.com/r/vZzJwFrw6v"
+   class="md-button">
+    📖 Responder o Teste sobre o conteúdo do Módulo 05
+</a>

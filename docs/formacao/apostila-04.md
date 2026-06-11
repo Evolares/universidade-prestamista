@@ -249,17 +249,6 @@ Valor pago pelo seguro.
 ✅ Sei orientar corretamente o cooperado.
 
 
-
-## Instruções
-
-Após concluir a leitura do Módulo 04, responda ao questionário abaixo.
-
-
-<a href="https://forms.office.com/r/uzEkaLgf3R"
-   class="md-button">
-    📖 Responder o Teste sobre o conteúdo do Módulo 04
-</a>
-
 ---
 
 ## Objetivo
@@ -278,3 +267,14 @@ Verificar a compreensão das parametrizações do Seguro Vida Prestamista e dos 
 - Configurações por cooperativa
 - Impactos operacionais das parametrizações
 - Governança das alterações de produto
+
+
+## Instruções
+
+Após concluir a leitura do Módulo 04, responda ao questionário abaixo.
+
+
+<a href="https://forms.office.com/r/uzEkaLgf3R"
+   class="md-button">
+    📖 Responder o Teste sobre o conteúdo do Módulo 04
+</a>

@@ -299,17 +299,6 @@ Situação que impede conclusão da análise.
 
 ✅ Conheço os principais riscos de formalização.
 
-
-## Instruções
-
-Após concluir a leitura do Módulo 06, responda ao questionário abaixo.
-
-
-<a href="https://forms.office.com/r/27weM9z9xj"
-   class="md-button">
-    📖 Responder o Teste sobre o conteúdo do Módulo 06
-</a>
-
 ---
 
 ## Objetivo
@@ -328,3 +317,15 @@ Verificar a compreensão dos processos de formalização, utilização da Declar
 - Responsabilidades da cooperativa
 - Responsabilidades da seguradora
 - Impactos da formalização na cobertura
+
+---
+
+## Instruções
+
+Após concluir a leitura do Módulo 06, responda ao questionário abaixo.
+
+
+<a href="https://forms.office.com/r/27weM9z9xj"
+   class="md-button">
+    📖 Responder o Teste sobre o conteúdo do Módulo 06
+</a>

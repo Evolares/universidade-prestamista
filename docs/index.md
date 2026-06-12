@@ -21,6 +21,11 @@ hide:
 📋 Teste de Diagnóstico
 </a>
 
+<a href="https://evolares.github.io/instrutoria-prestamista/estudos/"
+   class="md-button">
+🎓 Formação
+</a>
+
 <br>
 
 <img src="assets/imagens/PrestamistaFundo.png" width="100%">

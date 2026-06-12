@@ -45,3 +45,37 @@
 .md-typeset a:hover {
     color: #00a091;
 }
+
+.home-banner {
+    min-height: 80vh;
+
+    background-image: url("../assets/imagens/PrestamistaFundo.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    border-radius: 12px;
+
+    padding: 80px;
+    color: white;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* Escurece levemente para facilitar leitura */
+.home-banner::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 68, 83, 0.45);
+    border-radius: 12px;
+}
+
+.home-banner h1,
+.home-banner p,
+.home-banner a {
+    position: relative;
+    z-index: 1;
+}

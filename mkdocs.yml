@@ -1,44 +1,31 @@
----
-hide:
-  - navigation
-  - toc
----
+site_name: Instrutoria Prestamista
+site_url: https://evolares.github.io/instrutoria-prestamista/
 
-<div class="hero">
+theme:
+  name: material
+  language: pt-BR
 
-# 🎓 Instrutoria Prestamista
+extra_css:
+  - stylesheets/extra.css
 
-## Domine o Seguro Vida Prestamista do início ao fim
+nav:
+  - Início: index.md
 
-Capacitação completa sobre contratação, aceitação, cobrança, faturamento e conciliação.
+  - Formação:
+      - Módulo 01: formacao/apostila-01.md
+      - Módulo 02: formacao/apostila-02.md
+      - Módulo 03: formacao/apostila-03.md
+      - Módulo 04: formacao/apostila-04.md
+      - Módulo 05: formacao/apostila-05.md
+      - Módulo 06: formacao/apostila-06.md
+      - Módulo 07: formacao/apostila-07.md
+      - Módulo 08: formacao/apostila-08.md
+      - Módulo 09: formacao/apostila-09.md
+      - Módulo 10: formacao/apostila-10.md
 
-<a href="apoio/inscricao/" class="md-button md-button--primary">
-🚀 Realizar Inscrição
-</a>
+  - Avaliações:
+      - Diagnóstico: avaliacoes/diagnostico.md
+      - Certificação: avaliacoes/certificacao.md
 
-<a href="avaliacoes/diagnostico/" class="md-button">
-📋 Teste de Diagnóstico
-</a>
-
-</div>
-
----
-
-## O que você aprenderá?
-
-- Fundamentos do Seguro Prestamista
-- Público-Alvo e Regras de Aceitação
-- Capital Segurado e Formação do Prêmio
-- Parametrizações do Produto
-- Gestão da Exposição ao Risco
-- Formalização e DPS
-- Cobrança e Cancelamentos
-- Consistência das Parcelas
-- Faturamento e Conciliação
-- Oficina do Especialista
-
----
-
-## Certificação
-
-Ao concluir todos os módulos, você poderá realizar a avaliação final de certificação.
+  - Apoio:
+      - Inscrição: apoio/inscricao.md

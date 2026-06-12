@@ -7,10 +7,7 @@ hide:
 
 # 🎓 Instrutoria Prestamista
 
-## Domine o Seguro Vida Prestamista do início ao fim
-
-Capacitação completa sobre contratação, aceitação, cobrança, faturamento, consistência e conciliação do Seguro Vida Prestamista.
-
+## Domine o ciclo de Vida Prestamista
 
 <div class="hero-buttons">
 
@@ -24,6 +21,7 @@ Capacitação completa sobre contratação, aceitação, cobrança, faturamento,
 📋 Teste de Diagnóstico
 </a>
 
+<br>
 
 <img src="assets/imagens/PrestamistaFundo.png" width="100%">
 

@@ -26,6 +26,8 @@ hide:
 🎓 Formação
 </a>
 
+</div>
+
 <br>
 
 <img src="assets/imagens/PrestamistaFundo.png" width="100%">

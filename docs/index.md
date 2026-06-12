@@ -13,27 +13,6 @@ Capacitação completa sobre contratação, aceitação, cobrança, faturamento,
 
 <img src="assets/imagens/PrestamistaFundo.png" width="100%">
 
-<div style="
-display:flex;
-justify-content:center;
-gap:20px;
-margin-top:30px;
-margin-bottom:30px;
-flex-wrap:wrap;
-">
-
-<a href="https://evolares.github.io/instrutoria-prestamista/apoio/inscricao/"
-   class="md-button md-button--primary">
-🚀 Realizar Inscrição
-</a>
-
-<a href="https://evolares.github.io/instrutoria-prestamista/avaliacoes/diagnostico/"
-   class="md-button">
-📋 Teste de Diagnóstico
-</a>
-
-</div>
-
 ## O que você aprenderá?
 
 - Módulo 01 – Fundamentos do Seguro Prestamista

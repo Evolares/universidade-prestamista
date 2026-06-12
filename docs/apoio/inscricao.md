@@ -7,7 +7,7 @@ classes:
   - landing-page
 ---
 
-# 🎓 Universidade Prestamista
+# 🎓 Instrutoria Prestamista
 
 ## Domine o Seguro Vida Prestamista do início ao fim
 
@@ -15,7 +15,7 @@ O Seguro Vida Prestamista está presente em milhares de operações de crédito,
 
 Embora muitos profissionais convivam diariamente com o produto, poucos conhecem toda a sua jornada operacional, suas regras de aceitação, critérios de cobertura, processos de cobrança, faturamento e conciliação.
 
-A **Universidade Prestamista** foi criada para transformar conhecimento operacional em conhecimento especializado.
+A **Instrutoria Prestamista** foi criada para transformar conhecimento operacional em conhecimento especializado.
 
 ---
 
@@ -111,4 +111,4 @@ A avaliação permitirá identificar o nível atual de conhecimento e servirá c
 
 ### Transformando conhecimento em proteção.
 
-### Universidade Prestamista | Sicoob Seguradora
+### Instrutoria Prestamista | Sicoob Seguradora

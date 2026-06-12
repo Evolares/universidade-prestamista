@@ -23,7 +23,7 @@ Conceitos do Seguro Prestamista;
 - Consistência das parcelas;
 - Faturamento e conciliação contábil.
 
-O resultado servirá como uma fotografia do seu conhecimento neste momento e ajudará a direcionar sua jornada de aprendizado ao longo da Universidade Prestamista.
+O resultado servirá como uma fotografia do seu conhecimento neste momento e ajudará a direcionar sua jornada de aprendizado ao longo da Instrutoria Prestamista.
 
 ### Algumas orientações:
 - Procure responder sem consultar materiais de apoio.
@@ -53,6 +53,6 @@ Desejamos uma excelente avaliação e uma ótima jornada de aprendizado.
 </a>
 
 
-Universidade Prestamista
+Instrutoria Prestamista
 
 Sicoob Seguradora

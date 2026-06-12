@@ -1,8 +1,8 @@
-# Universidade Prestamista
+# Instrutoria Prestamista
 
 ## Especialista em Seguro Vida Prestamista
 
-Bem-vindo à Universidade Prestamista da Sicoob Seguradora.
+Bem-vindo à Instrutoria Prestamista da Sicoob Seguradora.
 
 Esta trilha foi criada para capacitar profissionais no ciclo completo do Seguro Vida Prestamista.
 

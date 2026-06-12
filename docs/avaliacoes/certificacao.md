@@ -2,7 +2,7 @@
 
 ## Em Breve
 
-Estamos preparando a etapa final da **Universidade Prestamista**.
+Estamos preparando a etapa final da **Instrutoria Prestamista**.
 
 A Certificação Final será disponibilizada em uma próxima versão da plataforma e terá como objetivo validar os conhecimentos adquiridos ao longo de toda a trilha de formação.
 

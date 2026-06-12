@@ -92,3 +92,34 @@ body[data-md-page="index"] .md-main__inner {
     margin-left: 0;
     max-width: 100%;
 }
+
+.hero {
+    min-height: 80vh;
+
+    background-image: url("../assets/imagens/PrestamistaFundo.png");
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    border-radius: 16px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+
+    padding: 60px;
+}
+
+.hero h1,
+.hero h2 {
+    color: white;
+    text-shadow: 2px 2px 10px rgba(0,0,0,0.4);
+}
+
+.hero .md-button {
+    margin: 10px;
+}
